@@ -19,7 +19,7 @@ export default function Index() {
       <VStack
         w="full"
         minH="100vh"
-        maxW="450px"
+        maxW="500px"
         bgColor="#ffffff"
         borderRadius="lg"
         p={12}
